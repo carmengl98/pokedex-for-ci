@@ -1,0 +1,16 @@
+name: Prueba
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  hello_pruena:
+    runs-on: windows-2019
+    steps:
+      - name: Echo the message
+        run: |
+          echo "Hola esto es una Prueba!!
+
+        
