@@ -11,6 +11,7 @@ jobs:
     steps:
       - name: Echo the message
         run: |
-          echo "Hola esto es una Prueba!!
+          echo "Hola esto es una Prueba!!"
+          echo "Otra línea si quieres"
 
         
