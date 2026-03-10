@@ -6,8 +6,8 @@ on:
       - main
 
 jobs:
-  hello_pruena:
-    runs-on: windows-2019
+  hello_prueba:
+    runs-on: [ubuntu-18.04, windows-10]
     steps:
       - name: Echo the message
         run: |
