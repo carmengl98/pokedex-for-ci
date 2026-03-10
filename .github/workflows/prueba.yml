@@ -13,5 +13,11 @@ jobs:
         run: |
           echo "Hola esto es una Prueba!!"
           echo "Otra línea si quieres"
+      - name: Dime la fecha
+        run: date
+      - name: Dime el nombre
+        run: whoami
+      - name: Archivos
+        run: ls -l
 
         
