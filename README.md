@@ -1,6 +1,6 @@
-[![Deployment Pipeline](https://github.com/midudev/pokedex-for-ci/actions/workflows/pipeline.yml/badge.svg)](https://github.com/midudev/pokedex-for-ci/actions/workflows/pipeline.yml)
+[![Prueba pipeline](https://github.com/carmengl98/pokedex-for-ci/actions/workflows/prueba_pipelines.yml/badge.svg)](https://github.com/carmengl98/pokedex-for-ci/actions/workflows/prueba_pipelines.yml)
 
-[![Prueba](https://github.com/carmengl98/pokedex-for-ci/actions/workflows/prueba.yml/badge.svg)](https://github.com/carmengl98/pokedex-for-ci/actions/workflows/prueba.yml)
+[![Prueba hellow](https://github.com/carmengl98/pokedex-for-ci/actions/workflows/prueba_hello.yml/badge.svg)](https://github.com/carmengl98/pokedex-for-ci/actions/workflows/prueba_hello.yml)
 
 # Full Stack open CI/CD
 
