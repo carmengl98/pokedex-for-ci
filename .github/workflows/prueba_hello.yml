@@ -1,4 +1,4 @@
-name: Prueba
+name: Prueba hellow
 
 on:
   push:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Echo the message
         run: |
-          echo "Hola esto es una Prueba!!"
+          echo "Hola esto es una Prueba!"
           echo "Otra línea si quieres"
       - name: Dime la fecha
         run: date
